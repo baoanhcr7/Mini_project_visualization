@@ -1,2 +1,3 @@
-# mini_project_visualization
-Bài tập cuối kì của môn trực quan hóa dữ liệu K15DS - IUH
+###  Môn: Trực Quan Hoá Dữ Liệu
+###  Giảng Viên: Trương Vĩnh Linh & Nguyễn Việt Linh
+###  Tên Đề Tài: Tìm Hiểu Thư Viện Plotly
